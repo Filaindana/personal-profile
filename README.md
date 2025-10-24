@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Fila Indana - Personal Portfolio Template
+
+## Cara pakai
+
+1. Pastikan Node.js terinstall
+2. Jalankan `npm install`
+3. Jalankan `npm start`
+
+Warna utama sudah diset di tailwind.config.js:
+
+- background: #FAFBFC
+- hero gradient: #E0EAFE -> #F9E5FF
+
+// End of template
