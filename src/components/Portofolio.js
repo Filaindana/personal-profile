@@ -1,7 +1,7 @@
 import React from "react";
-import dashboardImg from "../assets/dashboard.jpg";
-import mobileImg from "../assets/mobile.jpg";
-import motionImg from "../assets/motion.jpg";
+import dashboardImg from "../assets/images/dashboard.jpg";
+import mobileImg from "../assets/images/mobile.jpg";
+import motionImg from "../assets/images/motion.jpg";
 import { FaDribbble } from "react-icons/fa";
 
 const projects = [

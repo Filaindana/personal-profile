@@ -6,7 +6,7 @@ import {
   FaGithub,
 } from "react-icons/fa";
 import { PiRocketLight, PiLightbulbLight } from "react-icons/pi";
-import profile from "../assets/profile-sample.jpg";
+import profile from "../assets/images/profile-sample.jpg";
 
 export default function Hero() {
   return (
